@@ -1,0 +1,12 @@
+# Analysis parameters for CHD network
+
+## STRING
+1. 
+
+## Cytoscape - BioGRID network generation
+1. Generate network from PanelApp gene list (including green, amber and green genes) using BioGRID plugin.
+2. Export network as .xgmml
+
+## Cytoscape
+1. Import .xgmml network file.
+2. Determine modules using Moduland.
